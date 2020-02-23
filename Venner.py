@@ -31,7 +31,7 @@ class Marketplace:
         self.sold.append(expired_listing)
 
     # def sold_listing(self, removed_listing):  # check if needed
-    #     self.sold.append(removed_listing)
+    # self.sold.append(removed_listing)
 
     def show_listings(self):
 
