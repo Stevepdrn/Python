@@ -158,7 +158,7 @@ print(marcus)
 print(moma)
 print("\n \n")
 
-# veneer.show_listings()
+veneer.show_listings()
 # # since we sold what was in the veneer marketplace to MOMA this list is now empty again
 
 print("Veneer Marketplace: \n")
